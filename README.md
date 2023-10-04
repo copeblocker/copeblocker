@@ -1,6 +1,6 @@
 # CopeBlocker :shield:
 
-Hello! I'm **@copeblocker**, and I'm on a mission to make the world a better place, one less cope at a time.
+Hello! We are **@copeblocker**, and we're on a mission to make the world a better place, one less cope at a time.
 
 ## :eyes: What's this all about?
 
